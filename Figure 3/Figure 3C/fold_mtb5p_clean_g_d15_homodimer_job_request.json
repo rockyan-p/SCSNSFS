@@ -1,0 +1,73 @@
+[{
+ "name": "mtb5p_clean_g_D15_homodimer",
+ "modelSeeds": [
+  "5"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "IIPLTKQQINCYKVLVSQSQTQLTPLPLNQRVEYTQVDYQSQLYYFALEYSQLFLNNLPSNDIQYTYQYLTTSNRQVIKIYDNTSQFFGVPDQFKQATFYVTQMINLKNLNSNQLQNFFGICALNYFAQLHIKEFVLLSQQNQQFAISFDLISQTDDLSYVVLQFPTSFAQKPQTNSNIGCQLYTDFITIDKCSLTTNATSGLTSVSFNLTNLTQNNLQNISAALVLNYSTFNQNKFQNQQFQVQLLNYYSYLIANTTQFAIVDYRVCQQASFSAEIINNVQDFSQNERLKIKFTPASSNITRILIDLNNQAIIKINLTKIVIELSDLNQSNSLKILCSKVYQSLILCDLYNAFDFDITQGILMTLPFFQLTQPLQLMNITISIKYYTDYSYKNCYFSNTTLQFQSETSSSANAYLYSNNSFQISISNLIKLENQMTINIVLPSQLSFSQNVQLNNAFGFNSTSRVQVVSQQQVKISQLVQSYQFIPTYSGISFQLINVTSNTVYCNLSTQLSIQFQVINSFGLIIISGSIPVQIQPYPIQIQSTNQIYLTNPQQQQQNNNKNPPVALEINFQLQTNYYPQSSVFAIYLPPQLTRDLRFSSVTVDIENSFNYYCVSQTNSTQFSSQSIQFENQQQQRDSVSIICQFNGNDTLNSQQNLFTVRIQGYQLPEQLYKSTDRVIINLFDYSQKQFNQQSLCQSSENPNIQLQIKDKWVFTNT",
+    "glycans": [
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 198
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 209
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 212
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 220
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 228
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 256
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 317
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 329
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 379
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 399
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 419
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 498
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 507
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 649
+     }
+    ],
+    "count": 2
+   }
+  }
+ ]
+}
+]

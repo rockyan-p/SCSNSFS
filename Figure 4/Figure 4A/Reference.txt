@@ -1,0 +1,1 @@
+From N-terminus, the first 3 of 7 domains of each are selected based on structural predictions from Figure 3D. They are folded in complex using Google Deepmind's Alphafold 3. Abramson, J. et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 1–3 (2024) doi:10.1038/s41586-024-07487-w.

@@ -1,0 +1,101 @@
+[{
+ "name": "mtb7_mtb2_mtA2_d1-3",
+ "modelSeeds": [
+  "2"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "QLSYYLVSLNQNTKQLNPLPLNQRQISSNNLQQYYFVVEGNITQSNDLMGLGLDYTYRLLTTSNRVILYYFSNSDQLSSIPTQFQQNGFYINLLVSLQFSQGFNQVMQFINSNDALVQYDQLTLKKFVQLNTQSKQFLISTVLNSQTDDISNLILQYPSSLATIAQNSQNIGCQLYTDYVVLNQCSLIANPSTGLTSISFNLSSIPIPLTNISATVAINYSSFNQNFIQAQPFSLQLFNIYNIKISQSSNFGGVDQRVCQQSSFSAVLVNDTQAYNQRPIWQVRFTPTTNITRILIEFSQPIIAKIKGNTIPFTLSDLSGNNQFLLSCNKIYKSIILCDLYGYIPFDNSQPIILNFPQFDIISSTLQPQIQFSFKYFTDFSYQTCYSQNLMMQF",
+    "glycans": [
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 201
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 211
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 219
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 270
+     }
+    ],
+    "count": 1
+   }
+  },
+  {
+   "proteinChain": {
+    "sequence": "QLQCYQVNLNQSQQQIKQLPLNQRDGNPVIVQTNYFGFEMLLGQDSDLNQLTFTFTEVFLTSNRNIISNQTIFYGNIVDPPYSIINQVKYILILVNYQQFMQNFQQSYSTLCGISQYSQLVQKEFVQVNSQNKQFIVSTVLSSQISDQATLTIQYPTSFASQSQTTSNLGCQLYTDYGNLNSCSFSTNSSSGLSIVSFDLTNLNFYQQNISASVILNYSTFNQQMLLKPQFKLTLLNQYSYAIGGTPTFSILDQRICQQTGFSSILSPSILKLNQQDKLQINFTPVSNNITRLIFEFNQQIIPKFNLTKIFITLADSSLTNSVITQCYKAYLTMIVCDLEFQLTFDITKSIYVILPYLQIPSLVTLNALTLSFKYFTDSNIQNCYATNFTLQYQAIVA",
+    "glycans": [
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 10
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 69
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 188
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 217
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 289
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 306
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 388
+     }
+    ],
+    "count": 1
+   }
+  },
+  {
+   "proteinChain": {
+    "sequence": "MIVTIVICSDIHFIRNGIMFQYTNQNAKSFEIITNDMSPLSSATTQPDQYKQNVYVVNSLKFPQQQNNKYFFLPFPPNTFNRLLSVKCLDQNENIIDQYFLQNIVTISSQIQQLINSEDNNKYLQLTLSSSNNAFRAIQSSTSGNFKVQFTVENTLKSYPQNFINLIIDGQNITCIQSSYQITFRNQVQYTQYFNYSEFPSQFQNFGFQFYGYFFLGFNLQFSVGYDFNVIQGWNQFYSIYVIQNQTNLAYVRPVQYGDFIANELAFNIQQSAFNFCNLQQIVLPQSISDQFQAIDPILLLQNTVNQNNFTSQEIIYVNNGTIMFKNQNLQIISQLNPIPFILKQFVDVVGFNQNLSLTFSCNQNQLITKNYSII",
+    "glycans": [
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 172
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 195
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 309
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 320
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 355
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 371
+     }
+    ],
+    "count": 1
+   }
+  }
+ ]
+}
+]

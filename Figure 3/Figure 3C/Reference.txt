@@ -1,0 +1,7 @@
+Sequences obtained from Cervantes, M. D. et al. Selecting One of Several Mating Types through Gene Segment Joining and Deletion in Tetrahymena thermophila. PLOS Biology 11, e1001518 (2013) doi:10.1371/journal.pbio.1001518. 
+
+Mature sequences are predicted from SignalP 6.0, Teufel, F. et al. SignalP 6.0 predicts all five types of signal peptides using protein language models. Nat Biotechnol 40, 1023–1025 (2022) doi:10.1038/s41587-021-01156-3.
+
+N-linked glycosylation sites are predicted by 1. Ives, C. M. et al. Restoring Protein Glycosylation with GlycoShape. 2023.12.11.571101 bioRxiv preprint at https://doi.org/10.1101/2023.12.11.571101 (2023).
+
+Input files are submitted to Google Deepmind's Alphafold 3. Abramson, J. et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 1–3 (2024) doi:10.1038/s41586-024-07487-w.

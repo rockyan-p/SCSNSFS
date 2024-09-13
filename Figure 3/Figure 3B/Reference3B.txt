@@ -1,0 +1,6 @@
+Sequences obtained from Cervantes, M. D. et al. Selecting One of Several Mating Types through Gene Segment Joining and Deletion in Tetrahymena thermophila. PLOS Biology 11, e1001518 (2013) doi:10.1371/journal.pbio.1001518. 
+
+Mature sequences are predicted from SignalP 6.0, Teufel, F. et al. SignalP 6.0 predicts all five types of signal peptides using protein language models. Nat Biotechnol 40, 1023–1025 (2022) doi:10.1038/s41587-021-01156-3.
+
+Input files are submitted to AlphaFold2 using MMseqs2 on Google Colab: 1. Mirdita, M. et al. ColabFold: making protein folding accessible to all. Nat Methods 19, 679–682 (2022) doi:10.1038/s41592-022-01488-1. 
+

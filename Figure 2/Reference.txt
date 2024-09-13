@@ -1,0 +1,4 @@
+Sequences obtained from Sawka-Gądek, N. et al. Evolutionary Plasticity of Mating-Type Determination Mechanisms in Paramecium aurelia Sibling Species. Genome Biology and Evolution 13, evaa258 (2021) doi:10.1093/gbe/evaa258.
+Mature sequences are predicted from SignalP 6.0, Teufel, F. et al. SignalP 6.0 predicts all five types of signal peptides using protein language models. Nat Biotechnol 40, 1023–1025 (2022) doi:10.1038/s41587-021-01156-3.
+Input files are submitted to Google Deepmind's Alphafold 3. Abramson, J. et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 1–3 (2024) doi:10.1038/s41586-024-07487-w.
+Confidence metrics (pTM) for extracellular domains from left to right: 0.4, 0.44, 0.5, 0.44. The pTM for transmembrane domains: 0.39, 0.29, 0.51, 0.54.
